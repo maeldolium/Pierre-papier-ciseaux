@@ -14,7 +14,7 @@ Un jeu interactif "Pierre-Papier-Ciseaux" avec une interface graphique en **Pyth
 
 1. **Cloner ce dépôt** (ou télécharger le fichier) :
    ```bash
-   git clone https://github.com/ton-utilisateur/pierre-papier-ciseaux.git
+   git clone https://github.com/maeldolium/pierre-papier-ciseaux.git
    cd pierre-papier-ciseaux
    ```
 
